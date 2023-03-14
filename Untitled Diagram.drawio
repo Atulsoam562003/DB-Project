@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T18:01:29.249Z" agent="5.0 (X11; Ubuntu)" etag="mZ98iCqRgpXQU0YB6gMK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T18:03:23.498Z" agent="5.0 (X11; Ubuntu)" etag="DqOq_RY2KdFY23h1ZMLr" version="21.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3149" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3149" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,6 +373,11 @@
             <mxPoint x="1820" y="1370.3846153846152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t3Xq9TjTE5SwbGCGPuHj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t3Xq9TjTE5SwbGCGPuHj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789.9999999999995" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t3Xq9TjTE5SwbGCGPuHj-1" value="OWNER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="1310.38" width="300" height="120" as="geometry" />
         </mxCell>
@@ -410,6 +415,9 @@
         </mxCell>
         <mxCell id="t3Xq9TjTE5SwbGCGPuHj-32" value="RENT OR BUY" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t3Xq9TjTE5SwbGCGPuHj-35" value="LOWER BOUND" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
